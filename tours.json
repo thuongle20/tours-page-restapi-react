@@ -1,0 +1,26 @@
+[{  "type": "week",
+        "name": "Full Moon",
+        "date": "December 10, 2019"
+            },
+		{
+        "type": "month",
+        "name": "Sweet and Bitter",
+        "date": "March 20, 2020"
+		},
+		
+		{
+        "type": "week",
+        "name": "Far away Family Reunion",
+        "date": "January 7, 2020"
+		},
+		{
+        "type": "week",
+        "name": "Young Explorer",
+        "date": "February 3, 2020"
+		},
+		{
+        "type": "month",
+        "name": "Gravity Escape",
+        "date": "April 20, 2020"
+		}
+		]
